@@ -16,7 +16,7 @@ public class HelloWorld {
         System.out.println(f);
 
         int num = 2147483000;
-        float num2 = num;
+        float num2 = numf;
         System.out.println(num2);
         System.out.printf("热太阳能");
     }

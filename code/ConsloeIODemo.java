@@ -14,5 +14,4 @@ public class ConsloeIODemo{
 		String str = s.nextLine;
 		System.out.println("扫描到的数据为："+str);
 	}
-	
 }
